@@ -1,12 +1,13 @@
-.body{
+body{
   background-color: red;
 }
-
 
 .bar1 {
   background-color: grey;
   width: 100%;
-  padding: 1.5%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+
 }
 
 .terrain{
@@ -33,7 +34,8 @@ li {
 .bar {
   background-color: black;
   width: 100%;
-  padding: 3%;
+  padding-top: 3%;
+  padding-bottom: 3%;
   display: inline-block;
 }
 
