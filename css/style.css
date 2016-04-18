@@ -28,6 +28,13 @@ li {
   width: 100%;
 }
 
+.terrain-img,
+.bazzar,
+.uncharted,
+.facebook:hover{
+  cursor: pointer;
+}
+
 .bar {
   background-color: black;
   width: 100%;
